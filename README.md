@@ -4,4 +4,4 @@ This is a really simple project that uses the MailChimp API to collect email add
 
 PS.- The files are in the master branch.
 
-This projet is also active on the web (with the help of the heroku server). Here's the link :https://getbootstrap.com/docs/5.0/examples/sign-in/
+This projet is also active on the web (with the help of the heroku server). Here's the link :https://guarded-dusk-98085.herokuapp.com/
